@@ -12,4 +12,4 @@
     
 # os.system()
 
-import Scriptics
+import StarZed
